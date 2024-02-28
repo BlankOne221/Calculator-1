@@ -1,9 +1,9 @@
 # Calculator
-Lab 3 code for both C  &amp; Assembly
+Lab 3 code for C
 
 NO COPYING this code!!!!! IM TALKING TO YOU!
 
-This repository has both the C code and assembly code for the Lab.
+This repository has the C code for Lab 3
 
 
 
